@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/melted-service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/melted-service-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/melted-serice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/melted-service-zuul/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/melted-serice-feign/melted-serice-feign.iml" filepath="$PROJECT_DIR$/melted-serice-feign/melted-serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/melted-service-hi/melted-service-hi.iml" filepath="$PROJECT_DIR$/melted-service-hi/melted-service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/melted-service-ribbon/melted-service-ribbon.iml" filepath="$PROJECT_DIR$/melted-service-ribbon/melted-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melted-service-zuul/melted-service-zuul.iml" filepath="$PROJECT_DIR$/melted-service-zuul/melted-service-zuul.iml" />
     </modules>
   </component>
 </project>
