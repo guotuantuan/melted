@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="melted-eureka-server" />
+        <module name="melted-serice-feign" />
+        <module name="melted-server-hi" />
+        <module name="melted-service-hi" />
+        <module name="melted-service-ribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="melted" target="1.8" />
+      <module name="melted-eureka-server" target="1.8" />
+      <module name="melted-serice-feign" target="1.8" />
+      <module name="melted-server-hi" target="1.8" />
+      <module name="melted-service-hi" target="1.8" />
+      <module name="melted-service-ribbon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
