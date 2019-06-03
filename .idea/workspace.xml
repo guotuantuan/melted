@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9045857e-32b4-4a1a-bd60-60945ffd3ac6" name="Default" comment="提交代码">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_zuul_2_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_zuul_2_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/src/main/java/com/melted/configserver/ConfigServerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-config-server/src/test/java/com/melted/configserver/ConfigServerApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/melted-service-zuul/mvnw.cmd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="9045857e-32b4-4a1a-bd60-60945ffd3ac6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/melted-serice-feign/src/main/java/com/melted/sericefeign/controller/HiController.java" afterPath="$PROJECT_DIR$/melted-serice-feign/src/main/java/com/melted/sericefeign/controller/HiController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/melted-serice-feign/src/main/java/com/melted/sericefeign/service/SchedualServiceHi.java" afterPath="$PROJECT_DIR$/melted-serice-feign/src/main/java/com/melted/sericefeign/service/SchedualServiceHi.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/melted-service-hi/src/main/java/com/melted/servicehi/ServiceHiApplication.java" afterPath="$PROJECT_DIR$/melted-service-hi/src/main/java/com/melted/servicehi/ServiceHiApplication.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,9 +46,12 @@
       <file leaf-file-name="ServiceHiApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/melted-service-hi/src/main/java/com/melted/servicehi/ServiceHiApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="418">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,6 +141,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ec8dd09c53213b02184548efcc8d4a506d07a342" />
+      </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -246,7 +231,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,56 +245,6 @@
               <item name="melted" type="b2602c69:ProjectViewProjectNode" />
               <item name="melted" type="462c0819:PsiDirectoryNode" />
               <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sericefeign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sericefeign" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="melted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="melted" type="462c0819:PsiDirectoryNode" />
-              <item name="melted-serice-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sericefeign" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="melted" type="b2602c69:ProjectViewProjectNode" />
@@ -356,9 +293,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -559,7 +494,8 @@
       <workItem from="1558943391779" duration="4449000" />
       <workItem from="1559027924851" duration="24000" />
       <workItem from="1559283005726" duration="2825000" />
-      <workItem from="1559556744267" duration="34000" />
+      <workItem from="1559556744267" duration="1050000" />
+      <workItem from="1559557808787" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="提交readme">
       <created>1558926240905</created>
@@ -582,11 +518,32 @@
       <option name="project" value="LOCAL" />
       <updated>1558945390975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交代码">
+      <created>1559556803741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559556803741</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交代码测试">
+      <created>1559556875263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559556875263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交代码测试">
+      <created>1559557146195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559557146195</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23286000" />
+    <option name="totallyTimeSpent" value="24910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -599,13 +556,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13486141" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42219803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4156692" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21801706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22014925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -626,6 +583,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -633,7 +616,9 @@
     <MESSAGE value="提交readme" />
     <MESSAGE value="提交zuul" />
     <MESSAGE value="提交zuul2" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交zuul2" />
+    <MESSAGE value="提交代码" />
+    <MESSAGE value="提交代码测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1033,9 +1018,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/melted-service-hi/src/main/java/com/melted/servicehi/ServiceHiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
