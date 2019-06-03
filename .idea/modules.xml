@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/melted.iml" filepath="$PROJECT_DIR$/melted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melted-config-server/melted-config-server.iml" filepath="$PROJECT_DIR$/melted-config-server/melted-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/melted-eureka-server/melted-eureka-server.iml" filepath="$PROJECT_DIR$/melted-eureka-server/melted-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/melted-serice-feign/melted-serice-feign.iml" filepath="$PROJECT_DIR$/melted-serice-feign/melted-serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/melted-service-hi/melted-service-hi.iml" filepath="$PROJECT_DIR$/melted-service-hi/melted-service-hi.iml" />

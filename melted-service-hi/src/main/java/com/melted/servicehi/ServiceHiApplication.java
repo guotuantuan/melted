@@ -8,6 +8,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.HashMap;
+import java.util.Map;
+
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
@@ -22,6 +25,14 @@ public class ServiceHiApplication {
 	@RequestMapping("/hi")
 	public String home(@RequestParam(value = "name", defaultValue = "forezp") String name) {
 		return "hi " + name + " ,i am from port:" + port;
+	}
+	@RequestMapping("/hello")
+	public Object hello(@RequestParam(value = "name", defaultValue = "forezp") String name) {
+		Map map = new HashMap<>();
+		map.put("code",200);
+		map.put("messaage","helloWorld");
+		map.put("result","resulttest");
+		return map;
 	}
 
 }

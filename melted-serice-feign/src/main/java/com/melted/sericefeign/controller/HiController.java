@@ -20,5 +20,9 @@ public class HiController {
     public String sayHi(@RequestParam String name) {
         return schedualServiceHi.sayHiFromClientOne( name );
     }
+    @GetMapping(value = "/hello")
+    public String sayHiHello(@RequestParam String name) {
+        return schedualServiceHi.sayHiFromClientOneHello( name );
+    }
 
 }
