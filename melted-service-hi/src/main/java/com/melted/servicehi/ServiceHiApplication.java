@@ -29,7 +29,6 @@ public class ServiceHiApplication {
 	@RequestMapping("/hello")
 	public Object hello(@RequestParam(value = "name", defaultValue = "forezp") String name) {
 		Map map = new HashMap<>();
-
 		map.put("code",200);
 		map.put("messaage","helloWorld");
 		map.put("result","resulttest");
