@@ -24,6 +24,7 @@
         <module>melted-service-hi</module>
         <module>melted-serice-feign</module>
         <module>melted-service-ribbon</module>
+        <module>melted-config-server</module>
     </modules>
 
     <properties>
