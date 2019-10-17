@@ -28,7 +28,7 @@ public class TokenFilter extends ZuulFilter{
 
     @Override
     public boolean shouldFilter() {
-        return true;
+        return false;
     }
 
     @Override
@@ -36,14 +36,12 @@ public class TokenFilter extends ZuulFilter{
         System.out.println("=========进入到tokenFilter");
         RequestContext currentContext = RequestContext.getCurrentContext();
         HttpServletRequest request = currentContext.getRequest();
-        if(request.getRequestURI().indexOf("login")>-1){
-            return null;
-        }
         Object token = request.getSession().getAttribute("token");
-        if(token!=null&&token.toString().equals("success")){
+        if(token!=null){
+            System.out.println(token.toString());
             return null;
         }else{
-            currentContext.setSendZuulResponse(false);
+//            currentContext.setSendZuulResponse(false);
             return null;
         }
 
